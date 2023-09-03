@@ -1,0 +1,16 @@
+id_cliente,nome_cliente,numero_telefone,total_consumido,produto_mais_comprado,data_ultima_compra,mensagem_personalizada
+1,João Silva,(123) 456-7890,125.75,Bolo de Chocolate,2023-08-15,Olá João Silva! Agradecemos a sua preferência pelos nossos deliciosos produtos. Sua última compra de 'Bolo de Chocolate' foi feita em 15/08/2023. Que tal aproveitar essa delícia novamente? Esperamos vê-lo em breve em nossa loja! #sobremesasdeliciosas #momentosdoces
+2,Maria Souza,(987) 654-3210,89.5,Torta de Morango,2023-07-22,"Olá Maria Souza! Obrigado por ser uma cliente fiel! Sua última compra de um delicioso Bolo de Chocolate foi em 15/08/2023. Temos outras opções incríveis como Torta de Morango, Cupcake de Baunilha e muito mais. Venha nos visitar e se deliciar com nossas delícias! #clienteexemplar #sobremesasirresistíveis"
+3,Pedro Ferreira,(555) 123-4567,45.25,Cupcake de Baunilha,2023-08-05,"Olá Pedro Ferreira! Esperamos que esteja aproveitando nossas delícias de dar água na boca. Sabemos que seu item favorito é o [Bolo de Chocolate], e queremos te informar que sua última compra foi em [15/08/2023]. Não perca a oportunidade de se deliciar novamente com o sabor irresistível que só nossa [Bolo de Chocolate] oferece. Aproveite! #DoçuraGarantida"
+4,Ana Oliveira,(111) 222-3333,210.3,Donuts de Framboesa,2023-06-30,
+5,Carla Santos,(777) 888-9999,75.6,Torta de Limão,2023-07-10,
+6,André Duarte,(444) 555-6666,60.0,Torta de Maçã,2023-09-01,
+7,Lucia Rodrigues,(222) 333-4444,82.1,Pudim de Caramelo,2023-08-28,
+8,Marcos Costa,(999) 888-7777,50.75,Cupcake de Chocolate,2023-06-15,
+9,Amanda Pereira,(777) 123-4567,95.2,Bolo de Morango,2023-07-18,
+10,Ricardo Alves,(888) 777-6666,37.8,Donuts de Chocolate,2023-08-10,
+11,Larissa Lima,(666) 555-4444,69.9,Torta de Abacaxi,2023-06-25,
+12,Fernando Gonçalves,(333) 222-1111,110.4,Cupcake de Limão,2023-07-05,
+13,Susana Costa,(111) 222-3333,45.6,Bolo de Coco,2023-08-20,
+14,Roberto Santos,(555) 444-3333,75.3,Pudim de Chocolate,2023-09-02,
+15,Alexandre Sousa,(999) 888-7777,55.1,Torta de Maracujá,2023-07-14,

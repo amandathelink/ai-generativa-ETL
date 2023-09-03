@@ -1,0 +1,56 @@
+{
+  "id": 1261,
+  "name": "Amanda",
+  "account": {
+    "id": 1327,
+    "number": "00831-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 1223,
+    "number": "**** **** **** 5671",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 1262,
+  "name": "Pedro",
+  "account": {
+    "id": 1328,
+    "number": "00931-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 1224,
+    "number": "**** **** **** 5871",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 1263,
+  "name": "Vilma",
+  "account": {
+    "id": 1329,
+    "number": "00731-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 1225,
+    "number": "**** **** **** 5771",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}

@@ -1,0 +1,16 @@
+id_cliente,nome_cliente,numero_telefone,total_consumido,produto_mais_comprado,data_ultima_compra
+1,João Silva,(123) 456-7890,125.75,Bolo de Chocolate,2023-08-15
+2,Maria Souza,(987) 654-3210,89.50,Torta de Morango,2023-07-22
+3,Pedro Ferreira,(555) 123-4567,45.25,Cupcake de Baunilha,2023-08-05
+4,Ana Oliveira,(111) 222-3333,210.30,Donuts de Framboesa,2023-06-30
+5,Carla Santos,(777) 888-9999,75.60,Torta de Limão,2023-07-10
+6,André Duarte,(444) 555-6666,60.00,Torta de Maçã,2023-09-01
+7,Lucia Rodrigues,(222) 333-4444,82.10,Pudim de Caramelo,2023-08-28
+8,Marcos Costa,(999) 888-7777,50.75,Cupcake de Chocolate,2023-06-15
+9,aManDa Pereira,(777) 123-4567,95.20,Bolo de Morango,2023-07-18
+10,Ricardo Alves,(888) 777-6666,37.80,Donuts de Chocolate,2023-08-10
+11,Larissa Lima,(666) 555-4444,69.90,Torta de Abacaxi,2023-06-25
+12,Fernando Gonçalves,(333) 222-1111,110.40,Cupcake de Limão,2023-07-05
+13,Susana Costa,(111) 222-3333,45.60,Bolo de Coco,2023-08-20
+14,Roberto Santos,(555) 444-3333,75.30,Pudim de Chocolate,2023-09-02
+15,Alexandre Sousa,(999) 888-7777,55.10,Torta de Maracujá,2023-07-14
